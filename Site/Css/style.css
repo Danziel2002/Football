@@ -6,7 +6,7 @@ body{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	background:rgba(234, 180, 221,0.8); 
+	background:rgba(136, 204, 252,0.8); 
 }
 
 .navBar img{
